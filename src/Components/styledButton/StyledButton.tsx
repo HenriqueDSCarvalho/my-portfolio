@@ -22,7 +22,6 @@ const StyledButton: React.FC<StyledButtonProps> = ({ children }) => {
             backgroundColor: theme.palette.secondary.main
         }
 
-
     }))
 
     return (
